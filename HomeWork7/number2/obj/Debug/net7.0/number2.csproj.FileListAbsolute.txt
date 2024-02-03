@@ -1,0 +1,14 @@
+/Users/admin/Desktop/Educations in GeekBrains/Разработчик. Основной блок/C#/HomeWork7/number2/obj/Debug/net7.0/number2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Educations in GeekBrains/Разработчик. Основной блок/C#/HomeWork7/number2/obj/Debug/net7.0/number2.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Educations in GeekBrains/Разработчик. Основной блок/C#/HomeWork7/number2/obj/Debug/net7.0/number2.AssemblyInfo.cs
+/Users/admin/Desktop/Educations in GeekBrains/Разработчик. Основной блок/C#/HomeWork7/number2/obj/Debug/net7.0/number2.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Educations in GeekBrains/Разработчик. Основной блок/C#/HomeWork7/number2/bin/Debug/net7.0/number2
+/Users/admin/Desktop/Educations in GeekBrains/Разработчик. Основной блок/C#/HomeWork7/number2/bin/Debug/net7.0/number2.deps.json
+/Users/admin/Desktop/Educations in GeekBrains/Разработчик. Основной блок/C#/HomeWork7/number2/bin/Debug/net7.0/number2.runtimeconfig.json
+/Users/admin/Desktop/Educations in GeekBrains/Разработчик. Основной блок/C#/HomeWork7/number2/bin/Debug/net7.0/number2.dll
+/Users/admin/Desktop/Educations in GeekBrains/Разработчик. Основной блок/C#/HomeWork7/number2/bin/Debug/net7.0/number2.pdb
+/Users/admin/Desktop/Educations in GeekBrains/Разработчик. Основной блок/C#/HomeWork7/number2/obj/Debug/net7.0/number2.dll
+/Users/admin/Desktop/Educations in GeekBrains/Разработчик. Основной блок/C#/HomeWork7/number2/obj/Debug/net7.0/refint/number2.dll
+/Users/admin/Desktop/Educations in GeekBrains/Разработчик. Основной блок/C#/HomeWork7/number2/obj/Debug/net7.0/number2.pdb
+/Users/admin/Desktop/Educations in GeekBrains/Разработчик. Основной блок/C#/HomeWork7/number2/obj/Debug/net7.0/number2.genruntimeconfig.cache
+/Users/admin/Desktop/Educations in GeekBrains/Разработчик. Основной блок/C#/HomeWork7/number2/obj/Debug/net7.0/ref/number2.dll
